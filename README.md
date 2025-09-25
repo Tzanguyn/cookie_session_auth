@@ -7,9 +7,11 @@
 cd src/cookie_session_auth
 npm install
 node app.js
-![alt text](public/images/image-7.png)``
+```
 
 Server sẽ chạy tại: `http://localhost:3000`
+
+![alt text](public/images/image-7.png)
 
 ### API Endpoints
 
